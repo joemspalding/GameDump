@@ -1,0 +1,10 @@
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\bin\Debug\GamePumpo.dll
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\bin\Debug\GamePumpo.pdb
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\obj\Debug\ConsoleApp1.csprojResolveAssemblyReference.cache
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+C:\Users\Joe Spalding\source\repos\GamePumpo\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

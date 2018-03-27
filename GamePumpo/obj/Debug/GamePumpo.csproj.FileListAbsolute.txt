@@ -1,0 +1,9 @@
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\bin\Debug\GamePumpo.dll
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\bin\Debug\GamePumpo.pdb
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\obj\Debug\GamePumpo.csprojResolveAssemblyReference.cache
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\obj\Debug\GamePumpo.csproj.CoreCompileInputs.cache
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\obj\Debug\GamePumpo.csproj.CopyComplete
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\obj\Debug\GamePumpo.dll
+C:\Users\Joe Spalding\source\repos\GamePumpo\GamePumpo\obj\Debug\GamePumpo.pdb
