@@ -10,8 +10,10 @@ namespace ConsoleApp1
     {
         static void Main(string[] args)
         {
+            GameList gameList = new GameList();
             SteamGameGetter steam  = new SteamGameGetter();
-            steam.GetGames();
+
+            gameList.AddGamesBySystem(steam);
 
         }
     }

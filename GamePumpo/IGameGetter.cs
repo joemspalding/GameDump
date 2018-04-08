@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace GamePumpo
 {
-    interface IGameGetter
+    public interface IGameGetter
     {
         List<Game> GetGames();
     }

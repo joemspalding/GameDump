@@ -43,6 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="APICaller.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="GameList.cs" />
     <Compile Include="IGameGetter.cs" />

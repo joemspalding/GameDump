@@ -6,9 +6,14 @@ using System.Threading.Tasks;
 
 namespace GamePumpo
 {
-    public abstract class Game
+    public class Game
     {
         public int ID { get; set; }
         public string Name { get; set; }
+
+        public override string ToString()
+        {
+            return $"ID: {ID}, Name: {Name}";
+        }
     }
 }

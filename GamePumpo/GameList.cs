@@ -13,7 +13,7 @@ namespace GamePumpo
         private void AddGames()
         {
             List<Game> tempList = null;
-            tempList = AddGamesByConsole(new SteamGameGetter());
+            tempList = AddGamesBySystem(new SteamGameGetter());
 
             foreach(Game g in tempList)
             {
@@ -23,8 +23,9 @@ namespace GamePumpo
 
         }
 
+        //Consolodate Games with 
 
-        private List<Game> AddGamesByConsole (IGameGetter gameGetter)
+        public List<Game> AddGamesBySystem (IGameGetter gameGetter)
         {
             return gameGetter.GetGames();
         }
