@@ -16,3 +16,5 @@ C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\obj\Debug\GamePumpo.csproj
 C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\obj\Debug\GamePumpo.csproj.CopyComplete
 C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\obj\Debug\GamePumpo.dll
 C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\obj\Debug\GamePumpo.pdb
+C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\bin\Debug\log4net.dll
+C:\Users\Joe Spalding\source\repos\GameDump\GamePumpo\bin\Debug\log4net.xml

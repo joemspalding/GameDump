@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
-using System.Net.Http;
+using log4net;
 using Newtonsoft.Json;
 using System.Threading.Tasks;
 
@@ -10,12 +10,12 @@ namespace GamePumpo
     public class SteamGameGetter : IGameGetter
     {
         private List<Game> _gameList = new List<Game>();
-
+        private static ILog log = LogManager.GetLogger("");
 
         public List<Game> GetGames()
         {
+            Console.WriteLine(  log.IsInfoEnabled);// ("testing");
             VoidGetGamesAsync();
-
             return _gameList;
         }
 
