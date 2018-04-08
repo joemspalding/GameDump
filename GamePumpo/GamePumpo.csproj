@@ -46,9 +46,9 @@
     <Compile Include="APICaller.cs" />
     <Compile Include="Game.cs" />
     <Compile Include="GameList.cs" />
-    <Compile Include="IGameGetter.cs" />
+    <Compile Include="Abstract\IGameGetter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="SteamGameGetter.cs" />
+    <Compile Include="Systems\SteamGameGetter.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
